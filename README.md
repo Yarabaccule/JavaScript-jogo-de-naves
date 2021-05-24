@@ -3,6 +3,9 @@ Digital Innovetion One.
 
 Esse é o repositório da nossa aula de como montar um jogo de naves!
 
+Prof: Denilson Bonatti 
+https://github.com/denilsonbonatti
+
 ### Os requisitos são:
 
 - HTML básico
